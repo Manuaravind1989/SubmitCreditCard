@@ -1,2 +1,2 @@
 # SubmitCreditCard
-Sample credit submit application
+Sample credit card submit application
